@@ -58,14 +58,4 @@ This repository contains a Python-based API for managing call logs. The API prov
    python app.py  # For Flask
    ```
 
-## API Endpoints
-
-| Method | Endpoint           | Description                          |
-|--------|--------------------|--------------------------------------|
-| GET    | /api/calls         | Get all call logs (with pagination)  |
-| POST   | /api/calls         | Create a new call log entry         |
-| GET    | /api/calls/{id}    | Get a specific call log             |
-| PUT    | /api/calls/{id}    | Update a call log entry             |
-| DELETE | /api/calls/{id}    | Delete a call log entry             |
-| GET    | /api/calls/search  | Search call logs with filters       |
 
