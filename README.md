@@ -1,4 +1,3 @@
-# Call Log API
 # Call Log API - Python
 
 ## Overview
